@@ -5,7 +5,8 @@
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=eaemael4&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eaemael4&layout=compact&hide_border=true&title_color=00bfbf&text_color=00BFFF&bg_color=0d1117" />
-</div>
+  <img aligh="right" width="120" height="120" scr="(https://user-images.githubusercontent.com/125091485/222295217-b1dc8332-beb2-4a6e-a08a-399a993056b6.gif)">
+ </div>
 
 ![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eaemael4&theme=gothem&bg_color=0d1117&color=00bfff&line=0000ff&point=00bfe1&hide_border=true)
 
