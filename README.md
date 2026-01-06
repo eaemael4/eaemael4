@@ -5,7 +5,7 @@
 
 # 👩🏻‍💻 Ismael Souza
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor FullStack`**
 
 Me chamo Ismael Amaro de Souza, Tenho 21 anos, sou de São Paulo – capital, e sou estudante de Engenharia de Software na Uninter. Concluí o ensino médio com curso técnico em Informática e sou apaixonado por tecnologia e desenvolvimento de software.
 
