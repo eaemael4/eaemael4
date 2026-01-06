@@ -3,20 +3,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FFD&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ismael+Souza;I'm+21+years+old;I'm+from+Brazil;I'm+a+jr+web+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-# 👩🏻‍💻 Larissa Kich
+# 👩🏻‍💻 Ismael Souza
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio no IFRS, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na PUCRS. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu canal no YouTube "[Larissa Kich](https://www.youtube.com/@larissakich)", onde ensino a criar projetos web, e também através do Instagram, com o perfil chamado "[Dev em Dev](https://www.instagram.com/dev_em_dev/)".
+Me chamo Ismael Amaro de Souza, Tenho 21 anos, sou de São Paulo – capital, e sou estudante de Engenharia de Software na Uninter. Concluí o ensino médio com curso técnico em Informática e sou apaixonado por tecnologia e desenvolvimento de software.
+
+Tenho interesse em desenvolvimento de sistemas, aplicações web e soluções que resolvam problemas reais, além de estar aberto a novos desafios e aprendizados dentro da área de TI.
+
+Aqui compartilho meus projetos, estudos e minha evolução na área 🚀
 
 <p align="left">
-    <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
-    </a>
     <a href="https://www.youtube.com/@larissakich">
         <img 
             alt="youtube views" 
@@ -24,18 +21,18 @@ Me chamo Larissa Vitória Kich, tenho 20 anos e sou natural do Rio Grande do Sul
             src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
         />
     </a> 
-    <a href="https://github.com/Larissakich?tab=repositories&sort=stargazers">
+    <a href="https://github.com/eaemael4?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            src="https://custom-icon-badges.demolab.com/github/stars/eaemael4?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/Larissakich?tab=followers">
+    <a href="https://github.com/eaemael4?tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            src="https://custom-icon-badges.demolab.com/github/followers/eaemael4?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
 </p>
