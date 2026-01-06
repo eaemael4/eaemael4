@@ -3,8 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1E90FFD&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Ismael+Souza;I'm+21+years+old;I'm+from+Brazil;I'm+a+jr+web+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=eaemael4&theme=gothem&bg_color=0d1117&color=00bfff&line=0000ff&point=00bfe1&hide_border=true)
-
  ### Main skills:
  ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)
