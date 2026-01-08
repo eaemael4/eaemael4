@@ -29,7 +29,7 @@ Aqui compartilho meus projetos, estudos e minha evolução na área 🚀
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias em Aprendizados
 
 <img 
     align="left" 
